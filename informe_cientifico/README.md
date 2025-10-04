@@ -38,18 +38,25 @@ Copia y pega el contenido de cada archivo en orden en un nuevo documento.
 
 ## Archivos de figuras
 
-Las figuras referenciadas en el informe se encuentran en la carpeta `../images/`:
-- `izhikevich_simulacion_completa.png`
-- `potencial_membrana_vs_tiempo.png`
-- `variable_recuperacion_vs_tiempo.png`
-- `espacio_fases_v_vs_u.png`
-- `corriente_entrada_vs_tiempo.png`
-- `todas_las_neuronas_combinadas.png`
-- `neurona_RS_Regular_Spiking.png`
-- `neurona_IB_Intrinsically_Bursting.png`
-- `neurona_CH_Chattering.png`
-- `neurona_FS_Fast_Spiking.png`
-- `neurona_TC1_Thalamo_Cortical_1.png`
-- `neurona_TC2_Thalamo_Cortical_2.png`
-- `neurona_RZ_Resonator.png`
-- `neurona_LTS_Low_Threshold_Spiking.png`
+Las figuras referenciadas en el informe se encuentran en la carpeta `../images/` y están organizadas de la siguiente manera:
+
+### Simulación básica del modelo (Figuras 1-5):
+- `izhikevich_simulacion_completa.png` - Vista completa con 4 subplots
+- `potencial_membrana_vs_tiempo.png` - Evolución temporal del potencial
+- `variable_recuperacion_vs_tiempo.png` - Evolución temporal de la variable u
+- `espacio_fases_v_vs_u.png` - Espacio de fases
+- `corriente_entrada_vs_tiempo.png` - Corriente de entrada aplicada
+
+### Tipos neuronales (Figuras 6-14):
+- `todas_las_neuronas_combinadas.png` - Vista combinada de los 8 tipos
+- `neurona_RS_Regular_Spiking.png` - Regular Spiking
+- `neurona_IB_Intrinsically_Bursting.png` - Intrinsically Bursting
+- `neurona_CH_Chattering.png` - Chattering
+- `neurona_FS_Fast_Spiking.png` - Fast Spiking
+- `neurona_LTS_Low_Threshold_Spiking.png` - Low Threshold Spiking
+- `neurona_TC1_Thalamo_Cortical_1.png` - Thalamo-Cortical 1
+- `neurona_TC2_Thalamo_Cortical_2.png` - Thalamo-Cortical 2
+- `neurona_RZ_Resonator.png` - Resonator
+
+### Nota sobre las figuras:
+Todas las figuras están referenciadas correctamente en el archivo `05_resultados.md` con descripciones detalladas y numeración secuencial.
