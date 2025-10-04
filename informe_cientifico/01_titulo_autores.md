@@ -1,6 +1,12 @@
 # Simulación numérica del modelo de neuronas de Izhikevich
 
 ## Autores
-[Tu nombre completo]
-[Tu email]
-[Tu afiliación institucional]
+Matías Eduardo Bordone Carranza
+mebordone@unc.edu.ar
+Famaf
+
+Jeanette Peralta
+jeanettecandela@gmail.com
+Famaf
+
+
