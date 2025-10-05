@@ -3,10 +3,10 @@
 ## Autores
 Matías Eduardo Bordone Carranza
 mebordone@unc.edu.ar
-Famaf
+FAMAFyC
 
 Jeanette Peralta
-jeanettecandela@gmail.com
-Famaf
+jeanette.peralta@mi.unc.edu.ar
+FAMAFyC 
 
 
